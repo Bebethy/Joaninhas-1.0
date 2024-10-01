@@ -1,0 +1,27 @@
+.inicio {
+    background-color: rgb(252, 79, 79);
+    padding: 10px;
+    border: 1px solid rgb(24, 24, 25);
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-family:Courier New;
+}
+
+a {  display: inline-block;
+    color: rgb(255, 255, 255);/
+    text-decoration: none;
+    padding: 5px 15px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #d65c5c;
+}
+
+.meu-fieldset {
+    width: 800px; 
+    margin: 50px auto;
+    background-color: #f0f8ff; 
+    border: 4px solid #000000; 
+}
+
+
